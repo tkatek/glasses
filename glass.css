@@ -1,0 +1,113 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    background: linear-gradient(
+        to left,
+        rgb(128, 128, 248),
+        rgb(143, 143, 247),
+        rgb(51, 87, 87)
+    );
+}
+.one{
+    background-color:   rgb(125, 125, 247);
+    height: 60px;
+    width: 100%;
+
+    }
+    .sr{
+        outline: none;
+        height: 25px;
+        width: 300px;
+        border-radius: 6px;
+        border: solid ;
+        position: absolute;
+        top: 20px;
+        right:  10px;
+    }
+    .sr::placeholder{
+        color: black;
+    }
+    .link a{
+        text-decoration: none;
+        color: black;
+    }
+    .log{
+        position: absolute;
+        top: 20px;
+left: 220px;        
+    }
+    .con{
+        position: absolute;
+        top: 20px;
+left: 520px;        
+    }
+.about{
+    position: absolute;
+    top: 20px;
+left: 720px;       
+}
+.logo{
+    position: absolute;
+    top: -30px;
+}
+#cr{
+    background-color: rgb(97, 133, 175);
+    border: none;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    position: absolute;
+    left: 700px;
+    top: 120px;
+}
+#eyes{
+    border-radius: 20px;
+    
+  position: absolute;
+  top: 200px;
+  left: 650px;
+}
+#glasses{
+    position: absolute;
+    top : -10px;
+    left: 00px
+  
+}
+#bla{
+   position: absolute;
+   left: 50px;
+   top: 600px;
+}
+.lo{
+    position: absolute;
+    top: 800px;
+}
+.eee{
+    position: absolute;
+    top: 1500px;
+    border-radius: 20px;
+}
+.cardes1{
+    position: absolute;
+    left: 320px;
+    top: 900px;
+
+}
+.cardes2{
+    position: absolute;
+    left: 650px;
+    top: 900px;
+}
+.cardes3{
+    position: absolute;
+    left: 950px;
+    top: 900px;
+}
+.cardes4{
+    position: absolute;
+   
+    top: 900px;
+}
